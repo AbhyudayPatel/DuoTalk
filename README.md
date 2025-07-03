@@ -39,15 +39,7 @@ DuoTalk brings AI conversations to life with **two distinct AI audio agents** po
 
 - 🐍 **Python 3.8+**
 - 🔗 **[LiveKit Agents SDK](https://github.com/livekit/agents)**
-- 🧠 **[Google Gemini API access](https://aistudio.google.com/)**
-
-### 📦 Required Python Packages
-```bash
-livekit-agents
-livekit-api  
-python-dotenv
-google-genai
-```
+- 🧠 **[Google Gemini API](https://aistudio.google.com/)**
 
 ## 🚀 Quick Setup
 
