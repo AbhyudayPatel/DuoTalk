@@ -105,12 +105,6 @@ Enter your choice (1 or 2): _
 | **Personas** | Agent1 & Agent2 | Optimist vs Skeptic |
 | **Voices** | Puck & Charon | Puck & Charon |
 
-### 🎪 Experience the Magic
-- 🔄 **12 turns** of dynamic conversation (configurable)
-- 🎵 **Distinct voices** for each agent
-- 💰 **Optimized responses** (one-line format to save API costs)
-- 🔊 **Real-time audio** with natural speech patterns
-
 ## ⚙️ Configuration
 
 <details>
@@ -155,55 +149,12 @@ DuoTalk is built with **enterprise-grade reliability**:
 
 </details>
 
-## 🆘 Troubleshooting
-
-<details>
-<summary>❓ <strong>Common Issues & Solutions</strong></summary>
-
-### 🔑 API Key Issues
-```bash
-# Error: Invalid API key
-✅ Solution: Verify your Gemini API key in .env file
-```
-
-### 🌐 Network Problems
-```bash
-# Error: Connection timeout
-✅ Solution: Check internet connection and API limits
-```
-
-### 🔊 Voice Issues
-```bash
-# Error: Voice not available
-✅ Solution: Verify voice availability in your region
-```
-
-### 📦 Installation Problems
-```bash
-# Error: Package not found
-✅ Solution: Ensure all packages are installed correctly
-pip install --upgrade livekit-agents python-dotenv google-genai
-```
-
-</details>
-
----
-
-<div align="center">
 
 ## 📄 License
 
 **MIT License** - See LICENSE file for details
 
 ## 🙏 Acknowledgments
-
-| Technology | Purpose |
-|------------|---------|
-| 🔗 **[LiveKit](https://livekit.io/)** | Real-time communication platform |
-| 🧠 **[Google Gemini](https://ai.google.dev/)** | Advanced AI language model |
-| 🔧 **[python-dotenv](https://github.com/theskumar/python-dotenv)** | Environment management |
-
----
 
 *Experience the future of AI conversation today!*
 
