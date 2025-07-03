@@ -30,6 +30,9 @@ DuoTalk brings AI conversations to life with **two distinct AI audio agents** po
 | 🛡️ **Robust Error Handling** | Smart retry logic and graceful error recovery |
 | 🎪 **Voice Personas** | Distinct voices: **Puck** (optimistic) & **Charon** (skeptical) |
 
+## 🏗️ Code Architecture
+![image](https://github.com/user-attachments/assets/e3a6fa09-b5da-45c5-b97d-5621f0255769)
+
 ## 📋 Requirements
 
 > **Prerequisites for running DuoTalk**
@@ -122,19 +125,6 @@ Enter your choice (1 or 2): _
 
 </details>
 
-## 🏗️ Code Architecture
-
-```mermaid
-graph TD
-    A[🚀 Entry Point] --> B[📝 User Input]
-    B --> C{🎭 Mode Selection}
-    C -->|Friendly| D[🤝 Friendly Conversation]
-    C -->|Debate| E[⚔️ Debate Conversation]
-    D --> F[🎪 Agent Interaction]
-    E --> F
-    F --> G[🔊 Voice Generation]
-    G --> H[📊 Session Management]
-```
 
 ### 🧩 Core Components
 
