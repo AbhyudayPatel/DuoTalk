@@ -146,8 +146,6 @@ DuoTalk is built with **enterprise-grade reliability**:
 
 **MIT License** - See LICENSE file for details
 
-## 🙏 Acknowledgments
-
 *Experience the future of AI conversation today!*
 
 </div>
