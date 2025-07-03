@@ -17,7 +17,7 @@
 
 ## 🌟 Overview
 
-DuoTalk brings AI conversations to life with **two distinct AI audio agents** powered by Google Gemini and LiveKit. Watch as they engage in real-time voice conversations, whether collaborating in friendly discussions or debating opposing viewpoints on any topic you choose.
+DuoTalk brings AI conversations to life with **two distinct AI audio agents** powered by Google Gemini-realtime and *LiveKit*. Watch as they engage in real-time voice conversations, whether collaborating in friendly discussions or debating opposing viewpoints on any topic you choose.
 
 ## ✨ Features
 
@@ -50,7 +50,7 @@ google-genai
 
 ### 1️⃣ Clone & Navigate
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/AbhyudayPatel/DuoTalk.git
 cd DuoTalk
 ```
 
@@ -76,8 +76,6 @@ python dual_voice_agents.py console
 ```
 
 ### 📝 Interactive Setup
-
-When you launch DuoTalk, you'll go through a simple 2-step setup:
 
 #### Step 1: 🎯 Choose Your Topic
 ```
