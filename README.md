@@ -51,14 +51,14 @@ cd DuoTalk
 
 ### 2️⃣ Install Dependencies
 ```bash
-pip install livekit-agents livekit-api python-dotenv google-genai
+pip install livekit google.genai livekit-agents livekit-api python-dotenv google-genai livekit-plugins-google
 ```
 
 ### 3️⃣ Environment Configuration
 Create a `.env` file in your project root:
 ```env
 # Add your Google Gemini API key
-GEMINI_API_KEY=your_gemini_api_key_here
+GOOGLE_API_KEY=your_gemini_api_key_here
 ```
 
 > 💡 **Tip:** Get your API key from [Google AI Studio](https://aistudio.google.com/)
