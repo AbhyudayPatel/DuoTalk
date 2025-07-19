@@ -1,5 +1,5 @@
 # to run it, add gemini api in .env and  
-# then run "python four_agent_duotalk.py console" in terminal  
+# then run "python four_agents_duotalk.py console" in terminal  
   
 import asyncio  
 import logging  
