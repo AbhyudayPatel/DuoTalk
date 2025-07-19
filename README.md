@@ -68,6 +68,8 @@ GOOGLE_API_KEY=your_gemini_api_key_here
 ### 🏃‍♂️ Starting DuoTalk
 ```bash
 python dual_voice_agents.py console
+or
+python four_agents_duotalk.py console
 ```
 
 ### 📝 Interactive Setup
