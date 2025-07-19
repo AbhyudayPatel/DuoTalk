@@ -1,4 +1,4 @@
-# 🎤 DuoTalk
+# 🎤 DuoTalk  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AbhyudayPatel/DuoTalk)
 <div align="center">
 
 
