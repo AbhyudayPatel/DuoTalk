@@ -23,12 +23,13 @@ DuoTalk brings AI conversations to life with **two distinct AI audio agents** po
 
 | Feature | Description |
 |---------|-------------|
-| 🎭 **Dual AI Voice Agents** | Two agents with unique voices and personas |
-| 💬 **Conversation Modes** | Choose between friendly discussion or debate format |
+| 🎭 **Dual & Quad AI Voice Agents** | Two or four agents with unique voices and personas |
+| 💬 **Conversation Modes** | Choose between friendly discussion, debate, or roundtable format |
+| 🌀 **Roundtable Feature** | Four agents share diverse perspectives in a dynamic roundtable |
 | 🎯 **Custom Topics** | Specify any topic for dynamic conversations |
 | 🔊 **Real-Time Audio** | Natural spoken dialogue using Gemini's latest models |
 | 🛡️ **Robust Error Handling** | Smart retry logic and graceful error recovery |
-| 🎪 **Voice Personas** | Distinct voices: **Puck** (optimistic) & **Charon** (skeptical) |
+| 🎪 **Voice Personas** | Distinct voices: **Puck** (optimist, pragmatist) & **Charon** (skeptic, theorist) |
 
 ## 🏗️ Code Architecture
 ![image](https://github.com/user-attachments/assets/e3a6fa09-b5da-45c5-b97d-5621f0255769)
@@ -67,8 +68,9 @@ GOOGLE_API_KEY=your_gemini_api_key_here
 
 ### 🏃‍♂️ Starting DuoTalk
 ```bash
+# For 2 agents (friendly/discussion/debate):
 python dual_voice_agents.py console
-or
+# For 4 agents (roundtable/friendly/debate):
 python four_agents_duotalk.py console
 ```
 
@@ -87,17 +89,18 @@ Enter the topic for the conversation: _
 #### Step 2: 🎭 Select Conversation Mode
 ```
 Select conversation mode:
-1. Friendly discussion
-2. Debate format
-Enter your choice (1 or 2): _
+1. Friendly discussion (2 agents)
+2. Debate format (2 agents)
+3. Roundtable discussion (4 agents)
+Enter your choice (1, 2, or 3): _
 ```
 
-| Mode | 🤝 Friendly Discussion | ⚔️ Debate Format |
-|------|------------------------|-------------------|
-| **Style** | Collaborative & supportive | Opposing viewpoints |
-| **Tone** | Encouraging dialogue | Direct & contrary |
-| **Personas** | Agent1 & Agent2 | Optimist vs Skeptic |
-| **Voices** | Puck & Charon | Puck & Charon |
+| Mode | 🤝 Friendly Discussion | ⚔️ Debate Format | 🌀 Roundtable |
+|------|------------------------|-------------------|-------------------|
+| **Style** | Collaborative & supportive | Opposing viewpoints | Diverse perspectives |
+| **Tone** | Encouraging dialogue | Direct & contrary | Dynamic & engaging |
+| **Personas** | Agent1 & Agent2 | Optimist vs Skeptic | Optimist, Skeptic, Pragmatist, Theorist |
+| **Voices** | Puck & Charon | Puck & Charon | Puck & Charon (multiple roles) |
 
 ## ⚙️ Configuration
 
