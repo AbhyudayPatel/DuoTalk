@@ -82,5 +82,5 @@ duotalk summarize --help
 
 ## Links
 
-- Docs/Issues: https://github.com/AbhyudayPatel/Duotalk-package
+- Docs/Issues: https://github.com/AbhyudayPatel/DuoTalk
 - License: MIT
