@@ -32,7 +32,7 @@ duotalk roundtable -t "future of AI" -a 3
 # 2‑agent debate
 duotalk debate -t "pineapple on pizza"
 
-# YouTube summary (short, with voice off)
+# YouTube summary (short)
 duotalk summarize -u "https://youtu.be/VIDEO" -s short 
 ```
 
