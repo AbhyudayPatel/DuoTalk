@@ -33,7 +33,7 @@ duotalk roundtable -t "future of AI" -a 3
 duotalk debate -t "pineapple on pizza"
 
 # YouTube summary (short, with voice off)
-duotalk summarize -u "https://youtu.be/VIDEO" -s short --no-voice
+duotalk summarize -u "https://youtu.be/VIDEO" -s short 
 ```
 
 ## CLI at a glance
