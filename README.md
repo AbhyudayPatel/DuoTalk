@@ -1,7 +1,7 @@
 # DuoTalk 🎭
 
 Multi‑agent voice conversations platform.
-watch - https://youtu.be/KxT4Xm6kKZ8?si=LA_R_wns_XKJGSp2
+watch - https://www.youtube.com/watch?v=KxT4Xm6kKZ8
 
 — Create rich, persona‑driven discussions (debate, roundtable, panel, interview, chat) with 1–10 agents. Audio YouTube summarization. Powered by LiveKit and Google Gemini.
 <img width="2644" height="1768" alt="Duotalk" src="https://github.com/user-attachments/assets/04c1b27a-b68d-4871-94c4-cd8620eec405" />
